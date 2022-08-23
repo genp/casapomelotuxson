@@ -3,6 +3,4 @@
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
 
-👉🏻 [Demo](https://genp.github.io/casapomelotuxson/)
-
-![Demo](img/demo.gif)
+👉🏻Live Site](https://genp.github.io/casapomelotuxson/)
