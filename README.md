@@ -1,8 +1,8 @@
-# Restaurant Landing Page
+# Casa Pomelo Tuxson Landing Page
 
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
 
-👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+👉🏻 [Demo](https://genp.github.io/casapomelotuxson/)
 
 ![Demo](img/demo.gif)
